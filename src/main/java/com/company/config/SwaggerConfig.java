@@ -36,7 +36,7 @@ public class SwaggerConfig {
         return new ApiInfo("Youtube",
                 "Api documentation for youtube project.",
                 "1.0",
-                "https://t.me/Javlondev",
+                "https://t.me/niwanlivich",
                 new springfox.documentation.service.Contact("", "", ""),
                 "",
                 "",
